@@ -1,5 +1,3 @@
-print("Hello World")
-print("Hello World")
-print("Hello World")
-print("Hello World")
-print("Hello World")
+n=int(input())
+for i in range(n):
+    print("Hello World")
